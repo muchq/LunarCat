@@ -4,7 +4,7 @@ An easy to use, poorly tested web framework built on RestEasy, Jetty, Jackson, a
 
 ## Installation
 
-```
+```g
 <dependency>
   <groupId>com.muchq</groupId>
   <artifactId>LunarCat</artifactId>
